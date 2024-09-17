@@ -1,48 +1,50 @@
-# Perfil GitHub - Carlos Eduardo de Melo
+# Carlos Eduardo de Melo
 
 ---
 
-## 👋 Olá, mundo!
+## Sobre mim 👇
 
-Bem-vindo ao meu espaço digital! Sou Carlos Eduardo (Cadu), um apaixonado por Ciência da Computação e estudante na PUC Minas. Atualmente, estou imerso no universo da programação, explorando desde o front-end até linguagens de baixo nível, como C.
-
----
-
-## 🚀 Habilidades
-
-- **Linguagens de Programação:** HTML, CSS, JavaScript, C
-- **Desenvolvimento Front-End:** -----
-- **Banco de Dados:** ----
-- **Controle de Versão:** Git, GitHub
+Sou um estudande de Ciência da computação na [Pontifícia Universidade Católica de Minas Gerais e apaixonado pela tecnologia e suas diversas áreas de atuação.
 
 ---
 
-## 📚 Educação
+## Habilidades e Projetos
 
-**Ciência da Computação | PUC Minas**  
-*Período: 2024 - Presente*
+No meu GitHub vc encontrará meus projetos já concluidos e os que estou trabalhando em diferentes áreas, como exemplo:
 
-Durante meu curso, tenho adquirido conhecimento sólido em algoritmos, estruturas de dados e paradigmas de programação. Estou sempre buscando aprender e aplicar novas tecnologias para melhorar minhas habilidades técnicas.
+- Arduino
+- Web Development
+- Scripts em C, C++
 
 ---
 
-## 🌐 Redes Sociais
+## Mais sobre mim e meus interesses além da computação
 
-- [LinkedIn](https://www.linkedin.com/in/seunome)
+- Jogos online 🎮
+- Fimes e séries 🎬
+- Basquete 🏀
+- NFL 🏈
+- Toco violão 🎸(Só aprendendo ainda)
+
+---
+
+## Habilidades
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b)
+![Python](https://img.shields.io/badge/Python-FECE00?style=flat&logo=Python&logoColor=3776AB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap)
+![JavaScript](https://img.shields.io/badge/JavaScript-555555?style=flat&logo=javascript)
+![Nodejs](https://img.shields.io/badge/Nodejs-555555?style=flat&logo=Node.js)
+![Git](https://img.shields.io/badge/Git-555555?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+
+---
+
+## Redes Sociais
+
+- [Instagram](https://www.instagram.com/cadu_melooo/)
 - [Discord](https://discord.com/csmelo)
 
----
-
-## 💡 Interesses
-
-- Desenvolvimento Web
-- Algoritmos e Estruturas de Dados
-- Programação de Sistemas
-
----
-
-## 🤝 Let's Connect!
-
-Estou aberto a colaborações e oportunidades emocionantes! Se você está procurando um desenvolvedor dedicado e entusiasmado, sinta-se à vontade para entrar em contato.
-
-*Vamos construir algo incrível juntos!* 👨‍💻✨
