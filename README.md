@@ -45,6 +45,6 @@ No meu GitHub vc encontrará meus projetos já concluidos e os que estou trabalh
 
 ## Redes Sociais
 
-- [Instagram](https://www.instagram.com/cadu_melooo/)
-- [Discord](https://discord.com/csmelo)
+- [![Instagram]](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/cadu_melooo/)(https://www.instagram.com/cadu_melooo/)
+- [![Discord]](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.com/csmelo)(https://discord.com/csmelo)
 
