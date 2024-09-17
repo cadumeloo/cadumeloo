@@ -1,12 +1,9 @@
 # Carlos Eduardo de Melo
 
----
 
 ## Sobre mim 👇
 
 Sou um estudande de Ciência da computação na [Pontifícia Universidade Católica de Minas Gerais e apaixonado pela tecnologia e suas diversas áreas de atuação.
-
----
 
 ## Habilidades e Projetos
 
@@ -16,8 +13,6 @@ No meu GitHub vc encontrará meus projetos já concluidos e os que estou trabalh
 - Web Development
 - Scripts em C, C++
 
----
-
 ## Mais sobre mim e meus interesses além da computação
 
 - Jogos online 🎮
@@ -25,8 +20,6 @@ No meu GitHub vc encontrará meus projetos já concluidos e os que estou trabalh
 - Basquete 🏀
 - NFL 🏈
 - Toco violão 🎸(Só aprendendo ainda)
-
----
 
 ## Habilidades
 
@@ -40,8 +33,6 @@ No meu GitHub vc encontrará meus projetos já concluidos e os que estou trabalh
 ![Nodejs](https://img.shields.io/badge/Nodejs-555555?style=flat&logo=Node.js)
 ![Git](https://img.shields.io/badge/Git-555555?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-
----
 
 ## Redes Sociais
 
