@@ -3,7 +3,7 @@
 
 ## Sobre mim 👇
 
-Sou um estudande de Ciência da computação na [Pontifícia Universidade Católica de Minas Gerais e apaixonado pela tecnologia e suas diversas áreas de atuação.
+Sou um estudande de Ciência da computação na Pontifícia Universidade Católica de Minas Gerais e apaixonado pela tecnologia e suas diversas áreas de atuação.
 
 ## Habilidades e Projetos
 
